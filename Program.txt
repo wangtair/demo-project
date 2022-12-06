@@ -1,0 +1,6 @@
+class Central Program{
+	int i = 0;
+	
+	void ST(){}
+
+}
