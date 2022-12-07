@@ -1,6 +1,6 @@
 class Sttt3
 {
-
-
+	int anInt;
+	public Sttt3(int _anInt) => anInt = _anInt;
 
 }
